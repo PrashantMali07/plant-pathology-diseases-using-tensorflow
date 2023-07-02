@@ -1,0 +1,1 @@
+kaggle notebook link: https://www.kaggle.com/code/prashantkrmali/ai-plant-pathology-eda-tf-model/edit
